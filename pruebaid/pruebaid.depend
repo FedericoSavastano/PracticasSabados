@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569692382 source:d:\savastanofederico\pruebaid\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1569691979 d:\savastanofederico\pruebaid\func.h
+
+1569692603 source:d:\savastanofederico\pruebaid\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
