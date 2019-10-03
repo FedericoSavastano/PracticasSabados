@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1570114971 source:d:\federicosavastano\simulacroparcial\simulacroparcialestacionamiento\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
+1570113783 d:\federicosavastano\simulacroparcial\simulacroparcialestacionamiento\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1570115004 source:d:\federicosavastano\simulacroparcial\simulacroparcialestacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funciones.h"
+
